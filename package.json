@@ -3,6 +3,7 @@
     "displayName": "Mud Theme",
     "description": "A calming vscode color theme based on the colors of mud",
     "version": "0.0.1",
+    "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
     "engines": {
         "vscode": "^1.69.0"
     },
@@ -17,5 +18,14 @@
                 "path": "./themes/mud-theme-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/DarkMannn/mud-vscode-theme",
+        "type": "git"
+    },
+    "bugs": {
+        "url": "https://github.com/DarkMannn/mud-vscode-theme/issues"
+    },
+    "license": "MIT"
 }
