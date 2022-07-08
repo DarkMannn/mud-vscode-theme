@@ -3,6 +3,7 @@
     "displayName": "Mud Theme",
     "description": "A calming vscode color theme based on the colors of mud",
     "version": "0.0.1",
+    "publisher": "DarkMannn",
     "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
     "engines": {
         "vscode": "^1.69.0"
