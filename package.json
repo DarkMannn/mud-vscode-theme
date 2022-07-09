@@ -11,6 +11,20 @@
     "categories": [
         "Themes"
     ],
+    "keywords" : [
+        "theme",
+        "mud",
+        "swamp",
+        "tan",
+        "olive",
+        "green",
+        "brown",
+        "calming",
+        "calm",
+        "relaxind",
+        "relax",
+        "dark"
+    ],
     "contributes": {
         "themes": [
             {
