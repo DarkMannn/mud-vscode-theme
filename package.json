@@ -2,7 +2,7 @@
     "name": "mud-theme",
     "displayName": "Mud Theme",
     "description": "A calming vscode color theme based on the colors of mud",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "DarkMannn",
     "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
     "engines": {
@@ -21,8 +21,9 @@
         "brown",
         "calming",
         "calm",
-        "relaxind",
+        "relaxing",
         "relax",
+        "saturated",
         "dark"
     ],
     "contributes": {
