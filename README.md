@@ -23,7 +23,7 @@ Please report any issues [here](https://github.com/DarkMannn/mud-vscode-theme/is
 
 ## License
 
-This theme is released under the [MIT License](https://github.com/DarkMannn/mud-vscode-theme/blob/main/licence.md).
+This theme is released under the [MIT License](https://github.com/DarkMannn/mud-vscode-theme/blob/main/LICENSE.md).
 
 ## Author
 ✨ Designed by **[DarkMannn](https://darkmannn.dev)**
