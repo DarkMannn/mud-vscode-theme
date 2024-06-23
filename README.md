@@ -4,9 +4,9 @@
 
 A calming vscode color theme based on the colors of mud.
 
-![mud](https://drive.google.com/uc?export=view&id=1Pw9zKdkZzw3A-_NIP6e071eFlvgwnZr9)
+![mud](https://imgur.com/g9sYT0u.png)
 
-![theme preview](https://drive.google.com/uc?export=view&id=1Mwvc_hG524VBEXzrouSV-XzKbIHUoIVQ)
+![theme preview](https://imgur.com/lX7E4Rg.png)
 
 </div>
 
